@@ -4,3 +4,4 @@ Aquí puedes encontrar una series de recursos para ayudarte en tu instalación, 
 
 * [Cómo Crear un Stake Pool en la Shelley **Testnet**](https://github.com/tloada/cardano-tutorials/tree/master/node-setup)
 * [Cómo Crear un Stake Pool en la Shelley **Mainnet**](https://github.com/tloada/coincashew/tree/master/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node)
+* [Cómo Instalar Cardano-Node/Cli en un **Raspberry Pi 4** para Shelley **Mainnet**](https://github.com/tloada/Pi-Pool)

@@ -5,6 +5,7 @@ Aquí puedes encontrar una series de recursos para ayudarte en tu instalación, 
 * [Cómo Crear un Stake Pool en la Shelley **Testnet**](https://github.com/tloada/cardano-tutorials/tree/master/node-setup)
 * [Cómo Crear un Stake Pool en la Shelley **Mainnet**](https://github.com/tloada/coincashew/tree/master/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node)
 * [Cómo Instalar Cardano-Node/Cli en un **Raspberry Pi 4** para Shelley **Mainnet**](https://github.com/tloada/Pi-Pool)
+* [Consejos de Marketing para Operadores de Stake Pools](https://forum.cardano.org/t/consejos-de-marketing-para-operadores-de-stake-pool/40214)
 
 # Tutoriales y Guías para Delegantes y Todo Aquel que Posee ADA
 
@@ -16,3 +17,4 @@ Estos recursos constan de varias preguntas/problemas frecuentes y algunas guías
 * [Escogiendo un Pool Para Delegar](https://cardano-community.github.io/support-faq/#/es/select-pool-to-delegate)
 * [Seguridad ante Estafas Comunes](https://cardano-community.github.io/support-faq/#/es/no-to-scam)
 * [Recompensas - Preguntas Frecuentes](https://cardano-community.github.io/support-faq/#/es/rewards)
+* [Glosario Cardano](https://forum.cardano.org/t/glosario-cardano/40215)

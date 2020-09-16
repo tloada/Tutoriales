@@ -15,3 +15,4 @@ Estos recursos constan de varias preguntas/problemas frecuentes y algunas guías
 * [Explorador de Pools - Conoce Más Sobre los Pools](https://cardano-community.github.io/support-faq/#/es/explorers)
 * [Escogiendo un Pool Para Delegar](https://cardano-community.github.io/support-faq/#/es/select-pool-to-delegate)
 * [Seguridad ante Estafas Comunes](https://cardano-community.github.io/support-faq/#/es/no-to-scam)
+* [Recompensas - Preguntas Frecuentes](https://cardano-community.github.io/support-faq/#/es/rewards)
